@@ -93,7 +93,6 @@ com.instana.plugin.host:
   tags:
     - 'environment=production'
     - 'app1'
-    - 'app2'
 #  filesystems:
 #    - 'server:/usr/local/pub'
 #    - 'tmpfs:/mount/point/path'
